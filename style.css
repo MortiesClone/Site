@@ -9,16 +9,16 @@ nav{
 	padding: 10px 40px;
 	background-color: rgb(220, 220, 220);
 }
-#text{
+#search-text{
 	border: 1px solid white;
 	border-radius: 15px;
 	background-color: rgb(220, 220, 220);
 	padding: 0px 7px;
 }
-#text:hover{
+#search-text:hover{
 	background-color: white;
 }
-#text:focus{
+#search-text:focus{
 	background-color: white;
 	outline: none;
 	border-color: yellow;
